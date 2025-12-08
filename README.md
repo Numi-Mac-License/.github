@@ -1,2 +1,2 @@
 # .github
-Beautiful calculator app for macOS with natural language input, unit conversions, and customizable formatting for professionals.
+Professional vector graphics design app for macOS with powerful drawing tools, precise path editing, and seamless creative workflows.
